@@ -2,7 +2,7 @@
 
 int main()
 {
-    std::cout << "Enter two numbers to calculate: " << std::endl;
+    std::cout << "Enter two numbers to calculate with arithmetic option in the middle: " << std::endl;
     int num1 = 0, num2 = 0;
     char arithmetic = ' ';
     std::cin >> num1 >> arithmetic >> num2;
