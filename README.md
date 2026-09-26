@@ -27,7 +27,7 @@ Follow this format in the terminal after build:
 
 ```bash
 # 1. "Enter two numbers to calculate with arithmetic option in the middle: "
-When given the output, Do this - number + number. Ex. 5 + 10    
+When given the output, Do this --> number + number. Ex. 5 + 10    
 
 # 2. Integers ONLY!
 Make sure that you enter integer values, the calculator program will format the correct output for you. No Floating-points.
