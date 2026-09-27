@@ -19,7 +19,7 @@ g++ main.cpp -o calculator
 # 4. Launch the application
 ./calculator
 ```
-*(Note: If your file is named something other than `main.cpp`, change `main.cpp` to your cpp src)*
+*(Note: If your file is named something other than `main.cpp`, change `main.cpp` to your .cpp src)*
 
 ## 🕹️ How to use program
 
@@ -37,6 +37,7 @@ After you have completed the process, you have successfully used the program!
 ```
 
 ## 📝 Future Improvements
+- Loop for multiple calculations instead of re-run.
 - Add scientific calculation(Ex. Power, Sqrt, Modulo)
 - Add GUI
 
